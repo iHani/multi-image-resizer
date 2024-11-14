@@ -458,7 +458,7 @@ export default function Home() {
             transition={{ duration: 0.5 }}
             className="text-center text-lg text-gray-500"
           >
-            Upload images and click "Resize Images" to see the results here.
+            Upload images and click &quot;Resize Images&quot; to see the results here.
           </motion.p>
         )}
       </motion.div>
